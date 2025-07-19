@@ -17,7 +17,7 @@ This project showcases a complete financial dashboard built using **Microsoft Ex
 | `FinancialDashboard.pbix` | Power BI dashboard file |
 | (https://github.com/Jayanth-0510/Financial-Dashboard-Powerbi/blob/main/FinancialDatabase.xlsx) | Raw/cleaned financial data (if applicable) |
 | `dashboard_screenshot.png` | Preview image of the dashboard |
-| `README.md` | This project summary |
+| [`README.md`](https://github.com/Jayanth-0510/Financial-Dashboard-Powerbi/blob/main/README.md) | This project summary |
 
 ---
 
