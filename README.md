@@ -56,7 +56,7 @@ This dashboard enables users to:
 
 ## 👤 Author
 **Jayanth Neeleswara**  
-[LinkedIn](https://www.linkedin.com/in/neeleswara-jayanth/) • [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/neeleswara-jayanth/) • [GitHub](https://github.com/Jayanth-0510)
 
 📅 *Portfolio Project – July 2025*
 
