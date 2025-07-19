@@ -50,12 +50,7 @@ This dashboard enables users to:
 
 ## 🖼️ Dashboard Preview
 
-![Financial Dashboard Preview](dashboard_screenshot.png)
-
----
-
-## 🔗 Live Dashboard (Optional)
-> _Coming soon – hosted version (if you publish to Power BI service)_
+![Financial Dashboard Preview]([dashboard_screenshot.png](https://github.com/Jayanth-0510/Financial-Dashboard-Powerbi/blob/main/Financial_Dashboard_Screenshot.png))
 
 ---
 
